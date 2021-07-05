@@ -1,4 +1,5 @@
 # ShapeAI_Bootcamp_BWD
+PREVIEW LINK OF PROJECT - https://6o0ul.csb.app/
 # SHAPEAI Javascript and Reactjs BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
